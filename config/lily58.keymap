@@ -88,7 +88,7 @@
 &kp ESC    &kp N1  &kp N2  &kp N3    &kp N4    &kp N5                         &kp N6  &kp N7    &kp N8     &kp N9   &grzero       &grbspc
 &kp TAB    &kp Q   &kp W   &kp E     &kp R     &kp T                          &kp Y   &kp U     &kp I      &kp O    &kp P         &kp RET
 &sk LSHFT  &kp A   &kp S   &kp D     &kp F     &kp G                          &kp H   &kp J     &kp K      &kp L    &kp SEMI      &kp JP_COLON
-&kp LCTRL  &kp Z   &kp X   &kp C     &kp V     &kp B   &td0         &kp DEL   &kp N   &kp M     &kp COMMA  &kp DOT  &kp JP_SLASH  &kp RSHFT
+&kp LCTRL  &kp Z   &kp X   &kp C     &kp V     &kp B   &td0         &kp studio_unlock   &kp N   &kp M     &kp COMMA  &kp DOT  &kp JP_SLASH  &kp RSHFT
                            &kp LALT  &kp LGUI  &mo 1   &kp SPACE    &kp RSHFT &mo 2   &kp JP_EISU  &kp CAPS
             >;
 
